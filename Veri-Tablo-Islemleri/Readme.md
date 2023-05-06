@@ -1,5 +1,5 @@
 # Veri-Tablo-İslemleri
-Bu proje, PHP ve SQL kullanarak veri işlemleri gerçekleştirmek için geliştirilmiştir. Veri işlemleri arasında veri ekleme, güncelleme, silme ve sorgulama yer almaktadır.
+Bu proje, PHP ve SQL kullanarak veri işlemleri gerçekleştirmek için geliştirilmiştir. Veri işlemleri arasında veri ekleme, güncelleme, silme ve sorgulama yer almaktadır. Ayrıca Görselleştirme ve iyileştirmeler için Bootstrap 5 kullanıldı.
 
 # Gereksinimler
 Projenin çalışması için aşağıdaki gereksinimlerin sağlanması gerekmektedir:
