@@ -14,12 +14,12 @@ baglan.php dosyasını düzenleyerek veritabanı bağlantı ayarlarını yapın.
 SQL tablosunu oluşturmak için veritabanı yönetim aracınızı kullanın. Örneğin, phpMyAdmin kullanıyorsanız, SQL sorgularını çalıştırarak tabloyu oluşturun. SQL sorguları için veritabani.sql dosyasını kullanabilirsiniz.
 Proje kök dizinindeki index.php dosyasını web tarayıcısında açarak projeye erişebilirsiniz.
 # Kullanım
-Bu projede aşağıdaki veri işlemleri yapılabilir:
+## Bu projede aşağıdaki veri işlemleri yapılabilir:
 
-## Veri Ekleme: Form aracılığıyla yeni veri ekleyebilirsiniz.
-## Veri Güncelleme: Mevcut verileri düzenlemek için formu kullanabilirsiniz.
-## Veri Silme: Veritabanından kayıtları silmek için "Sil" butonunu kullanabilirsiniz.
-## Veri Sorgulama: Tablodaki verileri sorgulayabilir ve filtreleyebilirsiniz.
+### Veri Ekleme: Form aracılığıyla yeni veri ekleyebilirsiniz.
+### Veri Güncelleme: Mevcut verileri düzenlemek için formu kullanabilirsiniz.
+### Veri Silme: Veritabanından kayıtları silmek için "Sil" butonunu kullanabilirsiniz.
+### Veri Sorgulama: Tablodaki verileri sorgulayabilir ve filtreleyebilirsiniz.
 # Katkıda Bulunma
 Bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip edin:
 
