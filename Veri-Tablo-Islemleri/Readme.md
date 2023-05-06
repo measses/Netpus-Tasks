@@ -20,8 +20,11 @@ Proje kök dizinindeki index.php dosyasını web tarayıcısında açarak projey
 ### Veri Güncelleme: Mevcut verileri düzenlemek için formu kullanabilirsiniz.
 ### Veri Silme: Veritabanından kayıtları silmek için "Sil" butonunu kullanabilirsiniz.
 ### Veri Sorgulama: Tablodaki verileri sorgulayabilir ve filtreleyebilirsiniz.
+## Onizleme
+![tablo-form](https://user-images.githubusercontent.com/67739721/236619249-a85f22cf-04df-4395-b549-c0a757307762.gif)
 # Katkıda Bulunma
 Bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip edin:
+
 
 Bu projeyi forklayın.
 Yaptığınız değişiklikleri yeni bir branch oluşturarak yapın.
