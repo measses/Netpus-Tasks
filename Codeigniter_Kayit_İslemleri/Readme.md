@@ -1,34 +1,56 @@
-# Veri-Tablo-İslemleri
-Bu proje, PHP ve SQL kullanarak veri işlemleri gerçekleştirmek için geliştirilmiştir. Veri işlemleri arasında veri ekleme, güncelleme, silme ve sorgulama yer almaktadır. Ayrıca Görselleştirme ve iyileştirmeler için Bootstrap 5 kullanıldı.
+# Codeigniter Kayıt İşlemleri
 
-# Gereksinimler
-Projenin çalışması için aşağıdaki gereksinimlerin sağlanması gerekmektedir:
+Bu proje, CodeIgniter kullanarak geliştirilmiş bir php projesidir.
 
-Web sunucusu (Apache, Nginx, vb.)
-PHP 7.0 veya üzeri
-Bir SQL veritabanı (ör. MySQL, PostgreSQL, vb.)
-# Kurulum
-Bu projeyi klonlayın veya ZIP dosyası olarak indirin.
-Web sunucusuna projenin kök dizinini yerleştirin.
-baglan.php dosyasını düzenleyerek veritabanı bağlantı ayarlarını yapın. Gerekli bilgileri girin (ör. sunucu adı, kullanıcı adı, şifre, veritabanı adı).
-SQL tablosunu oluşturmak için veritabanı yönetim aracınızı kullanın. Örneğin, phpMyAdmin kullanıyorsanız, SQL sorgularını çalıştırarak tabloyu oluşturun. SQL sorguları için veritabani.sql dosyasını kullanabilirsiniz.
-Proje kök dizinindeki index.php dosyasını web tarayıcısında açarak projeye erişebilirsiniz.
-# Kullanım
-## Bu projede aşağıdaki veri işlemleri yapılabilir:
+## Kurulum
 
-### Veri Ekleme: Form aracılığıyla yeni veri ekleyebilirsiniz.
-### Veri Güncelleme: Mevcut verileri düzenlemek için formu kullanabilirsiniz.
-### Veri Silme: Veritabanından kayıtları silmek için "Sil" butonunu kullanabilirsiniz.
-### Veri Sorgulama: Tablodaki verileri sorgulayabilir ve filtreleyebilirsiniz.
-## Onizleme
-![tablo-form](https://user-images.githubusercontent.com/67739721/236619249-a85f22cf-04df-4395-b549-c0a757307762.gif)
-# Katkıda Bulunma
-Bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip edin:
+1. Proje dosyalarını bilgisayarınıza klonlayın.
+2. Projeyi bir web sunucusunda çalıştırın.
+
+## Kullanım
+
+1. Proje dosyalarını bir web sunucusuna yükleyin.
+
+2. Web tarayıcınızda projenin URL'sini açın.
+
+3.Bu projeyi klonlayın veya ZIP dosyası olarak indirin. Web sunucusuna projenin kök dizinini yerleştirin.  veritabanı bağlantı ayarlarını yapın. 
+Gerekli bilgileri girin (ör. sunucu adı, kullanıcı adı, şifre, veritabanı adı). SQL tablosunu oluşturmak için veritabanı yönetim aracınızı kullanın. 
+Örneğin, phpMyAdmin kullanıyorsanız, SQL sorgularını çalıştırarak tabloyu oluşturun. 
+SQL sorguları için veritabani.sql dosyasını kullanabilirsiniz. Proje kök dizinindeki index.php dosyasını web tarayıcısında açarak projeye erişebilirsiniz.
+
+## Katkıda Bulunma
+
+1. Bu projeyi çatallayın (fork) ve kendi GitHub hesabınıza kopyalayın.
+
+2. Değişikliklerinizi yapın ve yeni bir dal (branch) oluşturun.
+
+3. Değişikliklerinizi yeni dalda kaydedin ve bir pull talebi (pull request) açın.
+
+## Lisans
+
+MIT
 
 
-Bu projeyi forklayın.
-Yaptığınız değişiklikleri yeni bir branch oluşturarak yapın.
-Değişikliklerinizi commit edin ve branch'inizi ana projeye gönderin (pull request açın).
-İncelememiz ve birleştirmemiz için bekleyin. Her türlü katkıya açığız!
-# Lisans
-Bu projenin lisansı MIT lisansı altında yayınlanmaktadır.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yeni bir kişi ekleyebilirsiniz. Ad, soyad ve e-posta bilgilerini girdikten sonra kaydetme işlemi gerçekleştirilir.
+
+Mevcut bir kişiyi düzenleyebilirsiniz. Kayıtlar arasında dolaşarak istediğiniz kişinin bilgilerini güncelleyebilirsiniz.
+
+Bir kişiyi silebilirsiniz. Kayıtlar arasında dolaşarak istediğiniz kişiyi veritabanından silme işlemi yapabilirsiniz.
