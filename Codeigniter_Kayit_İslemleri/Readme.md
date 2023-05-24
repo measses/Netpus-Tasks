@@ -7,6 +7,13 @@ Bu proje, CodeIgniter kullanarak geliştirilmiş bir php projesidir.
 1. Proje dosyalarını bilgisayarınıza klonlayın.
 2. Projeyi bir web sunucusunda çalıştırın.
 
+## Proje Özellikleri 
+Yeni bir kişi ekleyebilirsiniz. Ad, soyad ve e-posta bilgilerini girdikten sonra kaydetme işlemi gerçekleştirilir.
+
+Mevcut bir kişiyi düzenleyebilirsiniz. Kayıtlar arasında dolaşarak istediğiniz kişinin bilgilerini güncelleyebilirsiniz.
+
+Bir kişiyi silebilirsiniz. Kayıtlar arasında dolaşarak istediğiniz kişiyi veritabanından silme işlemi yapabilirsiniz.
+
 ## Kullanım
 
 1. Proje dosyalarını bir web sunucusuna yükleyin.
@@ -53,9 +60,3 @@ MIT
 
 
 
-
-Yeni bir kişi ekleyebilirsiniz. Ad, soyad ve e-posta bilgilerini girdikten sonra kaydetme işlemi gerçekleştirilir.
-
-Mevcut bir kişiyi düzenleyebilirsiniz. Kayıtlar arasında dolaşarak istediğiniz kişinin bilgilerini güncelleyebilirsiniz.
-
-Bir kişiyi silebilirsiniz. Kayıtlar arasında dolaşarak istediğiniz kişiyi veritabanından silme işlemi yapabilirsiniz.
