@@ -15,8 +15,9 @@ Bu proje, CodeIgniter kullanarak geliştirilmiş bir php projesidir.
 
 3. Bu projeyi klonlayın veya ZIP dosyası olarak indirin. Web sunucusuna projenin kök dizinini yerleştirin.  veritabanı bağlantı ayarlarını yapın. 
  Gerekli bilgileri girin (ör. sunucu adı, kullanıcı adı, şifre, veritabanı adı). SQL tablosunu oluşturmak için veritabanı yönetim aracınızı kullanın. 
+  
   Örneğin, phpMyAdmin kullanıyorsanız, SQL sorgularını çalıştırarak tabloyu oluşturun. 
-SQL sorguları için veritabani.sql dosyasını kullanabilirsiniz. Proje kök dizinindeki index.php dosyasını web tarayıcısında açarak projeye erişebilirsiniz.
+  SQL sorguları için veritabani.sql dosyasını kullanabilirsiniz. Proje kök dizinindeki index.php dosyasını web tarayıcısında açarak projeye erişebilirsiniz.
 
 ## Katkıda Bulunma
 
