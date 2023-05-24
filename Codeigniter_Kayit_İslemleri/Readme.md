@@ -18,6 +18,10 @@ Bu proje, CodeIgniter kullanarak geliştirilmiş bir php projesidir.
 
    Örneğin, phpMyAdmin kullanıyorsanız, SQL sorgularını çalıştırarak tabloyu oluşturun. 
    SQL sorguları için veritabani.sql dosyasını kullanabilirsiniz. Proje kök dizinindeki index.php dosyasını web tarayıcısında açarak projeye erişebilirsiniz.
+   
+## Onizleme
+![Adsız-tasarım-_1_](https://github.com/measses/Netpus-Tasks/assets/67739721/fb81cbe5-dab6-41dc-be7b-795df5e487bf)
+
 
 ## Katkıda Bulunma
 
